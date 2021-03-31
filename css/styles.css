@@ -1,0 +1,100 @@
+.top{
+	background-color: #9ede73;
+}
+.ml-auto{
+	margin-left: auto;
+}
+.main-brand{
+	font-family: 'Lobster', cursive;
+	color: #fff;
+	font-size: 70px;
+}
+.head{
+	font-family: 'Righteous', cursive;
+	font-size: 50px;
+	color: #29bb89;
+}
+.mrg-button{
+	margin : 0px 10px;
+}
+.title{
+	font-family: 'Fredoka One', cursive;
+	font-size: 30px;
+	color: #fff;
+}
+.nav-link{
+	font-size: 20px;
+	margin : 0 10px;
+
+}
+.sub-head{
+	font-family: 'Concert One', cursive;	
+	font-size: 40px;
+	color: #9ede73;
+}
+.left-align{
+	text-align: left;
+}
+.sub-sub-head{
+	font-size: 20px;
+}
+.iphone-img{
+	width:250px;
+}
+.brand-img{
+	border-radius: 100%;
+	width: 15%;
+	margin-left: 30px;
+}
+.homepage{
+	text-align: center;
+}
+.covers{
+	text-align: center;
+	margin-top: 50px;
+}
+.skill-img{
+	width:100px;
+}
+.skill-row{
+	margin-bottom: 100px;
+}
+
+.bottom{
+	background-color: #fff;
+	text-align: center;
+	padding: 30px;
+}
+.contact{
+	font-size: 50px;
+	color: #29bb89;
+	margin-bottom: 30px;
+	font-family: 'Righteous', cursive;
+}
+.links{
+	margin: 0px 20px;
+	color: green;
+}
+.famous-vids{
+	text-align: center;
+	background-color: #9ede73;
+	padding: 50px;
+}
+.fm-title{
+	font-family: 'Righteous', cursive;
+	font-size: 50px;
+	color: #fff;
+	margin-bottom: 50px;
+}
+.carousal-img{
+	width: 500px;
+}
+.fam-sub{
+	font-size: 45px;
+	margin-top: 20px;
+	color: white;
+	font-family: 'Concert One', cursive;
+}
+
+
+        
