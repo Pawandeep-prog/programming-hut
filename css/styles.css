@@ -1,6 +1,14 @@
 .top{
 	background-color: #9ede73;
 }
+.navbar-brand{
+	max-width: 150px;
+}
+
+.brand-img{
+	border-radius: 100%;
+	width: 70px;
+}
 .ml-auto{
 	margin-left: auto;
 }
@@ -40,11 +48,6 @@
 }
 .iphone-img{
 	width:250px;
-}
-.brand-img{
-	border-radius: 100%;
-	width: 15%;
-	margin-left: 30px;
 }
 .homepage{
 	text-align: center;
